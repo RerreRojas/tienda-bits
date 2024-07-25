@@ -8,7 +8,7 @@ El proyecto está dividido en varias secciones:
 * Script: Contiene la lógica de la aplicación en JavaScript, utilizando Vue.js y Vuex.
 * Style: Define los estilos CSS para la aplicación.
 * Store: Configuración de Vuex para la gestión del estado. [index.js](https://github.com/RerreRojas/tienda-bits/blob/main/src/store/index.js)
-El store Vuex gestiona el estado de la lista de juegos, incluyendo acciones para obtener los datos de los juegos desde un archivo JSON, e incrementar o disminuir el stock de los juegos.
+`El store Vuex gestiona el estado de la lista de juegos, incluyendo acciones para obtener los datos de los juegos desde un archivo JSON, e incrementar o disminuir el stock de los juegos.`
 ## Descripción de Funcionalidades
 * fetchGames: Acción que obtiene la lista de juegos desde un archivo JSON y la guarda en el estado de Vuex.
 * Incrementar: Acción que incrementa el stock de un juego específico.
